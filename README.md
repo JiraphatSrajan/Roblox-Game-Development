@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/เล่นเกม_Anime_Fighting_Star-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="เล่น Anime Fighting Star บน Roblox">
 </a>
 
-**สถานะ:** เปิดให้ทดสอบบน Roblox
+**สถานะ:** เปิดให้ทดสอบบน Roblox เฉพาะผู้มีสิทธิ์
 
 <br>
 
